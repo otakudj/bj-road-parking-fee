@@ -19,7 +19,7 @@ def price():
             param = 2
             break
         else:
-            print('Error Level, Please reenter !')
+            print('Error Car Type, Please reenter !')
 
     # calculate different level fee
     # http://m.bj.bendibao.com/zffw/324554.html
